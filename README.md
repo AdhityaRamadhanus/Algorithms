@@ -1,2 +1,2 @@
 # Algorithms
-any algorithms
+Tortoise Hare (Cycle Finding) -> http://visualgo.net/cyclefinding.html
